@@ -1,0 +1,10 @@
+#include<iostream>
+
+int main(){
+
+    cout << "Hari Maharjan";
+    cout << "Rajesh Timalsina";
+    cout << "prem udas";
+    
+    return 0;
+}
